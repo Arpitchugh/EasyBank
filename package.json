@@ -1,0 +1,15 @@
+{
+	"name": "bank-landing-page",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"node-sass": "^6.0.0"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"watch:scss": "node-sass scss/style.scss css/style.css -w"
+	},
+	"author": "Arpit",
+	"license": "ISC"
+}
